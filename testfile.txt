@@ -1,3 +1,0 @@
-simply test file to test commit function
-
-trying to commit/push
